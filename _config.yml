@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Marcelo Galigniana
 description: Python and JavaScript developer
-logo: https://avatars1.githubusercontent.com/u/16822952?s=460&u=938a74072c489fe1b7ca099a8278d75d3c4af2ef&v=4
+logo: /assets/img/logo.png
+
